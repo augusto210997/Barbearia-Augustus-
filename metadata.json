@@ -1,0 +1,6 @@
+{
+  "name": "Agendamento Salão Masculino",
+  "description": "Sistema completo de agendamento e gestão para salão de corte masculino e barbearia com integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
